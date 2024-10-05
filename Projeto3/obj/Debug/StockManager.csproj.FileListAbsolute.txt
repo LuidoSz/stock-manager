@@ -1,0 +1,14 @@
+C:\Users\I7 9th\Desktop\Repositorio\c#\Projeto3\Projeto3\bin\Debug\Projeto3.exe.config
+C:\Users\I7 9th\Desktop\Repositorio\c#\Projeto3\Projeto3\bin\Debug\Projeto3.exe
+C:\Users\I7 9th\Desktop\Repositorio\c#\Projeto3\Projeto3\bin\Debug\Projeto3.pdb
+C:\Users\I7 9th\Desktop\Repositorio\c#\Projeto3\Projeto3\obj\Debug\StockManager.csproj.AssemblyReference.cache
+C:\Users\I7 9th\Desktop\Repositorio\c#\Projeto3\Projeto3\obj\Debug\StockManager.csproj.CoreCompileInputs.cache
+C:\Users\I7 9th\Desktop\Repositorio\c#\Projeto3\Projeto3\obj\Debug\Projeto3.exe
+C:\Users\I7 9th\Desktop\Repositorio\c#\Projeto3\Projeto3\obj\Debug\Projeto3.pdb
+C:\Users\I7 9th\Desktop\Repositorio\c#\StockManager\Projeto3\bin\Debug\Projeto3.exe.config
+C:\Users\I7 9th\Desktop\Repositorio\c#\StockManager\Projeto3\bin\Debug\Projeto3.exe
+C:\Users\I7 9th\Desktop\Repositorio\c#\StockManager\Projeto3\bin\Debug\Projeto3.pdb
+C:\Users\I7 9th\Desktop\Repositorio\c#\StockManager\Projeto3\obj\Debug\StockManager.csproj.AssemblyReference.cache
+C:\Users\I7 9th\Desktop\Repositorio\c#\StockManager\Projeto3\obj\Debug\StockManager.csproj.CoreCompileInputs.cache
+C:\Users\I7 9th\Desktop\Repositorio\c#\StockManager\Projeto3\obj\Debug\Projeto3.exe
+C:\Users\I7 9th\Desktop\Repositorio\c#\StockManager\Projeto3\obj\Debug\Projeto3.pdb
